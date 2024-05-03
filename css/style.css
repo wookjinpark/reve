@@ -191,6 +191,9 @@ a{
         position: relative;
         overflow: hidden;
     }
+    .shortcut{
+        padding-top:60px;
+    }
     .shortcut a{
         width: 100%;
     }
